@@ -964,6 +964,17 @@ $--avatar-medium-size: 36px !default;
 /// size|1|Avatar Size|3
 $--avatar-small-size: 28px !default;
 
+// Skeleton
+// ---
+$--skeleton-color: #f2f2f2;
+$--skeleton-to-color: #e6e6e6;
+
+// Empty
+$--empty-font-size: $--font-size-base;
+
+// affix
+$--zindex-affix: 10;
+
 /* Break-point
 --------------------------*/
 $--sm: 768px !default;
