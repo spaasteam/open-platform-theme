@@ -1,5 +1,5 @@
 {
-  "name": "open-platform-theme",
+  "name": "@spaas/open-platform-theme",
   "version": "2.12.0",
   "description": "Element component chalk theme.",
   "main": "lib/index.css",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElementUI/theme-chalk.git"
+    "url": "git+https://github.com/spaasteam/open-platform-theme.git"
   },
   "keywords": [
     "element",
@@ -22,9 +22,9 @@
   "author": "yi.shyang@ele.me",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ElementUI/theme-chalk/issues"
+    "url": "https://github.com/spaasteam/open-platform-theme/issues"
   },
-  "homepage": "https://github.com/ElementUI/theme-chalk#readme",
+  "homepage": "https://github.com/spaasteam/open-platform-theme#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-cssmin": "^0.1.7",

@@ -1,33 +1,33 @@
-# element-theme-chalk
+# open-platform-theme
 > element component chalk theme.
 
 
 ## Installation
 ```shell
-npm i element-theme-chalk -S
+npm i @spaas/open-platform-theme -S
 ```
 
 ## Usage
 
 Use Sass import
 ```css
-@import 'element-theme-chalk';
+@import '@spaas/open-platform-theme';
 ```
 
 Or Use webpack
 ```javascript
-import 'element-theme-chalk';
+import '@spaas/open-platform-theme';
 ```
 
 Or
 ```html
-<link rel="stylesheet" href="path/to/node_modules/element-theme-chalk/lib/index.css">
+<link rel="stylesheet" href="path/to/node_modules/@spaas/open-platform-theme/lib/index.css">
 ```
 
 ##  Import on demand
 ```javascript
-import 'element-theme-chalk/lib/input.css';
-import 'element-theme-chalk/lib/select.css';
+import '@spaas/open-platform-theme/lib/input.css';
+import '@spaas/open-platform-theme/lib/select.css';
 
 // ...
 ```
