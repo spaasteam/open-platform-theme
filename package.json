@@ -1,6 +1,6 @@
 {
   "name": "@spaas/open-platform-theme",
-  "version": "2.12.0",
+  "version": "2.12.1",
   "description": "Element component chalk theme.",
   "main": "lib/index.css",
   "style": "lib/index.css",
